@@ -76,10 +76,7 @@ Vue.js
 
 ## URL
 Website\
-https://hkuspace-comp2001hk.web.app/ 
-
-RESTful API\
-https://us-central1-hkuspace-comp2001hk.cloudfunctions.net/app/data 
+https://comp2001hk.ivanlo.hk
 
 ## Screenshots
 ![image](https://i.imgur.com/Z88EW5Z.png)
